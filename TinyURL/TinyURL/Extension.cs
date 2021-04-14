@@ -9,7 +9,7 @@ namespace TinyURL
         public static string Shrink(this string url)
         {
             string shrunk = string.Empty;
-            url = "http://tinyurl.com/api-create.php?url=" + url.ToLower();
+            url = "http://tinyurl.com/api-create.php?url=" + url;
 
             HttpWebResponse rep = null;
             HttpWebRequest o = WebRequest.Create(url) as HttpWebRequest;

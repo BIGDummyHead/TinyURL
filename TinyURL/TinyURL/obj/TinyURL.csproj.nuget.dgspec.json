@@ -5,10 +5,10 @@
   },
   "projects": {
     "C:\\Users\\shawn\\source\\repos\\TinyURL\\TinyURL\\TinyURL.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.0.1",
       "restore": {
         "projectUniqueName": "C:\\Users\\shawn\\source\\repos\\TinyURL\\TinyURL\\TinyURL.csproj",
-        "projectName": "TinyURL",
+        "projectName": "TinyURL-LinkShrinker",
         "projectPath": "C:\\Users\\shawn\\source\\repos\\TinyURL\\TinyURL\\TinyURL.csproj",
         "packagesPath": "C:\\Users\\shawn\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\shawn\\source\\repos\\TinyURL\\TinyURL\\obj\\",
