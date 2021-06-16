@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "TinyURL/1.0.0.1": {
+      "TinyURL/1.0.0.2": {
         "runtime": {
           "TinyURL.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "TinyURL/1.0.0.1": {
+    "TinyURL/1.0.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

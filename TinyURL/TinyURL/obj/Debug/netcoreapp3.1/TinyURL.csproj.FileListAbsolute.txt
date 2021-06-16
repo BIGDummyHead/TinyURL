@@ -16,3 +16,12 @@ C:\Users\shawn\source\repos\TinyURL\TinyURL\obj\Debug\netcoreapp3.1\TinyURL.Asse
 C:\Users\shawn\source\repos\TinyURL\TinyURL\obj\Debug\netcoreapp3.1\TinyURL.csproj.CoreCompileInputs.cache
 C:\Users\shawn\source\repos\TinyURL\TinyURL\obj\Debug\netcoreapp3.1\TinyURL.dll
 C:\Users\shawn\source\repos\TinyURL\TinyURL\obj\Debug\netcoreapp3.1\TinyURL.pdb
+C:\Users\shawn\Documents\GitHub\TinyURL\TinyURL\TinyURL\bin\Debug\netcoreapp3.1\TinyURL.deps.json
+C:\Users\shawn\Documents\GitHub\TinyURL\TinyURL\TinyURL\bin\Debug\netcoreapp3.1\TinyURL.dll
+C:\Users\shawn\Documents\GitHub\TinyURL\TinyURL\TinyURL\bin\Debug\netcoreapp3.1\TinyURL.pdb
+C:\Users\shawn\Documents\GitHub\TinyURL\TinyURL\TinyURL\obj\Debug\netcoreapp3.1\TinyURL.csprojAssemblyReference.cache
+C:\Users\shawn\Documents\GitHub\TinyURL\TinyURL\TinyURL\obj\Debug\netcoreapp3.1\TinyURL.AssemblyInfoInputs.cache
+C:\Users\shawn\Documents\GitHub\TinyURL\TinyURL\TinyURL\obj\Debug\netcoreapp3.1\TinyURL.AssemblyInfo.cs
+C:\Users\shawn\Documents\GitHub\TinyURL\TinyURL\TinyURL\obj\Debug\netcoreapp3.1\TinyURL.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\GitHub\TinyURL\TinyURL\TinyURL\obj\Debug\netcoreapp3.1\TinyURL.dll
+C:\Users\shawn\Documents\GitHub\TinyURL\TinyURL\TinyURL\obj\Debug\netcoreapp3.1\TinyURL.pdb

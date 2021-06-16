@@ -2,14 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>TinyURL-LinkShrinker</id>
-    <version>1.0.0</version>
+    <version>1.0.0.2</version>
     <authors>BIGDummyHead</authors>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <license type="file">mitLicense.txt</license>
     <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
     <projectUrl>https://github.com/BIGDummyHead/TinyURL</projectUrl>
     <description>Allows you to shrink Links</description>
-    <releaseNotes>First Edition</releaseNotes>
+    <releaseNotes>Async methods</releaseNotes>
     <copyright>© Shawn J Bohn</copyright>
     <tags>Web, Html</tags>
     <repository type="Html" url="https://github.com/BIGDummyHead/TinyURL" />
@@ -18,7 +18,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\shawn\source\repos\TinyURL\TinyURL\bin\Debug\netcoreapp3.1\TinyURL.dll" target="lib\netcoreapp3.1\TinyURL.dll" />
+    <file src="C:\Users\shawn\Documents\GitHub\TinyURL\TinyURL\TinyURL\bin\Debug\netcoreapp3.1\TinyURL.dll" target="lib\netcoreapp3.1\TinyURL.dll" />
     <file src="C:\Users\shawn\source\mitLicense.txt" target="mitLicense.txt" />
   </files>
 </package>

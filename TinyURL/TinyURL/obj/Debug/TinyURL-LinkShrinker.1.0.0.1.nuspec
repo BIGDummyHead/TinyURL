@@ -18,7 +18,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\shawn\source\repos\TinyURL\TinyURL\bin\Debug\netcoreapp3.1\TinyURL.dll" target="lib\netcoreapp3.1\TinyURL.dll" />
-    <file src="C:\Users\shawn\source\mitLicense.txt" target="mitLicense.txt" />
+    <file src="C:\Users\shawn\Documents\GitHub\TinyURL\TinyURL\TinyURL\bin\Debug\netcoreapp3.1\TinyURL.dll" target="lib\netcoreapp3.1\TinyURL.dll" />
+    <file src="C:\Users\shawn\Documents\GitHub\mitLicense.txt" target="mitLicense.txt" />
   </files>
 </package>
